@@ -56,10 +56,10 @@
 
 <h2>✒️ | Hire Me</h2>
 <h4>🔒 | Decentralized Purchasing</h4>
-<p>To hire me please <a href="mailto:gc0156@proton.me">contact me</a>, so we can clarify the matter! Payment is made before the service, in the payment methods below.</p>
+<p>To hire me please <a href="mailto:gc0156@proton.me">contact me</a>, so we can clarify the matter! Payment is made before the service.</p>
 
 <h4>🔓 | Centralized Purchasing</h4>
-<p>To hire me please <a href="https://www.freelancer.pt/u/gc0156">contact me</a>. Payment methods below.</p>
+<p>To hire me please <a href="https://www.freelancer.pt/u/gc0156">contact me</a>.</p>
 
 <h4>💰 | Payment Method</h4>
 <a href="https://paypal.me/gc0156"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
