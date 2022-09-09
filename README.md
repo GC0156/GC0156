@@ -5,7 +5,6 @@
 <p>In programming I like to focus a lot on the Scripting area, but I am capable of doing Front-End.</p>
 
 <p>In the Scripting area I love working with Python, because it's a language where I can do many and diverse things with great ease.</p>
-
 <p>In the CyberSecurity area I like to work with data, i.e., work in projects where I need to collect information about someone or some site. But I also do projects in the Pentest area.</p>
 
 <br>
@@ -54,7 +53,7 @@
 
 <br>
 
-<h2>✒️ | Hire Me</h2>
+<h3>✒️ | Hire Me</h3>
 <h4>🔒 | Decentralized Purchasing</h4>
 <p>To hire me please <a href="mailto:gc0156@proton.me">contact me</a>, so we can clarify the matter! Payment is made before the service.</p>
 
@@ -66,3 +65,8 @@
 <a href=""><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white"></a>
 
 <br>
+<br>
+
+<h3>📊 | Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=GC0156&show_icons=true&theme=city_lights">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GC0156&theme=city_lights&layout=compact)">
