@@ -3,7 +3,6 @@
 
 <h3>✍🏽 | What I do</h3>
 <p>In programming I like to focus a lot on the Scripting area, but I am capable of doing Front-End.</p>
-
 <p>In the Scripting area I love working with Python, because it's a language where I can do many and diverse things with great ease.</p>
 <p>In the CyberSecurity area I like to work with data, i.e., work in projects where I need to collect information about someone or some site. But I also do projects in the Pentest area.</p>
 
